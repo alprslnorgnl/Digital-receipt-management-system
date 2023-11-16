@@ -8,3 +8,14 @@ While our world is facing such serious risks, it is not understandable that we a
 
 
 ![Graph 1](/assets/ss.png)
+
+In this study, it is aimed to reduce the use of paper receipts and to develop a mobile application where the end user can see their expenses and provide analysis based on historical data.
+
+### Aims and Goals
+The main purpose of this project is to develop a system that will reduce and eliminate paper usage while presenting shopping data to the user. In this direction;
+
+a) Developing a system that will completely eliminate receipts, automatically send them to mobile phones during shopping, and store all receipts in a central system.
+b) Considering that the use of receipts will continue for a while during the transition to this system, and trying to digitally store the data from the receipt with OCR solutions.
+c) It is about developing a Flutter-based cross-platform mobile application where users can view and analyze their receipts.
+
+When these goals are successfully completed, a solution that eliminates paper receipts and can be easily controlled via a mobile application will emerge.
