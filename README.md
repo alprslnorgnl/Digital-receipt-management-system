@@ -21,3 +21,22 @@ b) Considering that the use of receipts will continue for a while during the tra
 c) It is about developing a Flutter-based cross-platform mobile application where users can view and analyze their receipts.
 
 When these goals are successfully completed, a solution that eliminates paper receipts and can be easily controlled via a mobile application will emerge.
+
+## METHOD
+The digital receipt management system consists of three basic processes; These are the user registration and login process, the process of obtaining the receipt information, and the process of accessing the data requested by the User.
+
+Our mobile application will be based on Flutter and in accordance with microservice architecture.
+
+![Microservice Arch](/assets/microservice.png)
+
+### User Registration and Login Process
+
+![service 1](/assets/service1.png)
+
+### Process of Obtaining Receipt Information
+
+![service 2](/assets/service2.png)
+
+### The Process of  obtaining the information the user wants
+
+![service 3](/assets/service3.png)
